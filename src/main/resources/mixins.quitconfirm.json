@@ -1,0 +1,12 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nixuge.quitconfirm.mixins",
+  "refmap": "refmap.quitconfirm.json",
+  "mixins": [],
+  "client": [
+    "IGuiScreen",
+    "gui.GuiInGameMenuMixin",
+    "gui.GuiMainMenuMixin"
+  ],
+  "server": []
+}
